@@ -4,11 +4,11 @@
 
 This project focuses on analyzing customer shopping behavior using data analytics techniques. The goal is to understand purchasing patterns, identify trends, and generate insights that can help businesses make data-driven decisions. The project covers the full analytics workflow from data loading and cleaning to dashboard creation and reporting.
 
-#Dataset
+# Dataset
 
 The dataset contains customer shopping information such as product categories, purchase amounts, customer demographics, and shopping behavior.
 
-#Key attributes include:
+# Key attributes include:
 
 *Customer demographics
 
@@ -22,7 +22,7 @@ The dataset contains customer shopping information such as product categories, p
 
 The dataset is used to explore customer purchasing patterns and identify business insights.
 
-#Tools & Technologies
+# Tools & Technologies
 
 The following tools were used in this project:
 
@@ -36,7 +36,7 @@ Power BI – Interactive dashboard creation
 
 Gamma AI – Presentation (PPT) generation
 
-#Project Workflow / Steps
+# Project Workflow / Steps
 1. Data Loading
 
 The dataset was loaded into Python using Pandas for further analysis.
@@ -87,11 +87,11 @@ Shopping trends
 
 A detailed report and presentation were created using Gamma AI to communicate findings and insights clearly.
 
-#Dashboard
+# Dashboard
 
 The Power BI dashboard provides interactive visualizations to explore customer shopping patterns and business insights. Users can filter data and analyze trends across different product categories and customer segments.
 
-#Key Results
+# Key Results
 
 The analysis revealed several important insights such as:
 
@@ -105,7 +105,7 @@ Key factors influencing shopping behavior
 
 These insights can help businesses improve marketing strategies and customer engagement.
 
-#How to Run the Project
+# How to Run the Project
 
 Clone the repository
 
