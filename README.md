@@ -1,6 +1,6 @@
 # Customer_Behavior_Analysis
 
-#Overview
+# Overview
 
 This project focuses on analyzing customer shopping behavior using data analytics techniques. The goal is to understand purchasing patterns, identify trends, and generate insights that can help businesses make data-driven decisions. The project covers the full analytics workflow from data loading and cleaning to dashboard creation and reporting.
 
